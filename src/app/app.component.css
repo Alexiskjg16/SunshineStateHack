@@ -1,0 +1,30 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+ul {
+    display: flex;
+    align-items: flex-end;
+}
+ul .active {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+    padding: 0 1rem;
+}
+
+span {
+    margin: 10rem;
+}
