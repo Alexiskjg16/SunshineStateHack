@@ -1,0 +1,15 @@
+li {
+    list-style: none;
+}
+
+ul {
+    border: .05rem solid black;
+    padding: 3rem;    
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

@@ -1,26 +1,57 @@
 [
     {
         "name": "Cal Tiger",
-        "company":"",
+        "company":" ",
         "position": "Lead Organizer",
-        "website": ""
+        "website": " "
     },
     {
         "name": "Brian Kornfeld",
         "company":"CEO, Synapse",
         "position": "Advisor",
-        "website": ""
+        "website": " "
     },
     {
         "name": "Dr. Dan Conway, PhD",
         "company":"Sam Walton Blockchain CoC",
         "position": "Associate Director",
-        "website": ""
+        "website": " "
     },
     {
         "name": "Alexis Grisham",
-        "company":"",
-        "position": "",
+        "company":" ",
+        "position": "developer",
+        "website": "https://alexisgrisham.netlify.app/#home"
+    },
+    {
+        "name": "Carol Bolger",
+        "company":" ",
+        "position": "backend developer",
+        "website": "https://www.linkedin.com/in/carolcorybolger/"
+    },
+    {
+        "name": "Christine Laferrierre, RN",
+        "company":" ", 
+        "position": "Director of Marketing",
         "website": ""
+    },
+    {
+        "name": "Sandeep Seth",
+        "company": "Entrepreneur",
+        "position": "CFO & Investor",
+        "website": "https://www.linkedin.com/in/sandeepsethcbsmba2011/"
+    },
+    {
+        "name": "Charles Enslin",
+        "company": " ",
+        "position": "Practice Director",
+        "website": "https://www.linkedin.com/in/charles-enslin-ab90821/"
+    },
+    {
+        "name": "Dr. Frank Quintana, Phd",
+        "company": " ",
+        "position": "Chief Data Scientist",  
+        "website": "https://www.linkedin.com/in/frankquintanadataarchitect/"
+        
     }
 ]
