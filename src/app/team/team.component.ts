@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import  team  from './team.json';
+import advisors from './advisors.json';
 
 @Component({
   selector: 'app-team',
@@ -12,8 +13,13 @@ public teams: {
   name: string;
   position: string;
   company: string;
-  website: string;
 }[] = team;
+
+public advisors: {
+  name: string;
+  position: string;
+  company: string;
+}[] = advisors;
 
   constructor() { }
 

@@ -2,56 +2,72 @@
     {
         "name": "Cal Tiger",
         "company":" ",
-        "position": "Lead Organizer",
-        "website": " "
+        "position": "Lead Organizer"
     },
-    {
-        "name": "Brian Kornfeld",
-        "company":"CEO, Synapse",
-        "position": "Advisor",
-        "website": " "
-    },
+
     {
         "name": "Dr. Dan Conway, PhD",
         "company":"Sam Walton Blockchain CoC",
-        "position": "Associate Director",
-        "website": " "
+        "position": "Associate Director"
     },
     {
         "name": "Alexis Grisham",
         "company":" ",
-        "position": "Front End Developer",
-        "website": "https://alexisgrisham.netlify.app/#home"
+        "position": "Website Designer"
     },
     {
         "name": "Carol Bolger",
         "company":" ",
-        "position": "Back End Developer",
-        "website": "https://www.linkedin.com/in/carolcorybolger/"
+        "position": "Software Developer"
     },
     {
         "name": "Christine Laferrierre, RN",
         "company":" ", 
-        "position": "Director of Marketing",
-        "website": ""
+        "position": "Director of Marketing"
     },
     {
         "name": "Sandeep Seth",
         "company": "Entrepreneur",
-        "position": "CFO & Investor",
-        "website": "https://www.linkedin.com/in/sandeepsethcbsmba2011/"
+        "position": "CFO & Investor"
     },
     {
         "name": "Charles Enslin",
         "company": " ",
-        "position": "Practice Director",
-        "website": "https://www.linkedin.com/in/charles-enslin-ab90821/"
+        "position": "Practice Director"
+    },
+    {
+        "name": "Jeff Pewarski",
+        "company": " ",
+        "position": "Director of Business Development" 
+    },
+    {
+        "name": "Rein Gottshalk",
+        "company": " ",
+        "position": "Clearwater/Tallinn /Estonia" 
+    },
+    {
+        "name": "FrankSev",
+        "company": "Veterans Health, 501c3*",
+        "position": "Board Member" 
+    },
+    {
+        "name": "Dheeraj Krishna",
+        "company": "Student",
+        "position": "" 
+    },
+    {
+        "name": "Krittin Kalra",
+        "company": "TheGlobalhack.com Prize winner (new delhi)",
+        "position": "" 
+    },
+    {
+        "name": "Rehan Raj",
+        "company": "Hyderabad Young Entrepreneur",
+        "position": "" 
     },
     {
         "name": "Dr. Frank Quintana, Phd",
         "company": " ",
-        "position": "Chief Data Scientist",  
-        "website": "https://www.linkedin.com/in/frankquintanadataarchitect/"
-        
+        "position": "Chief Data Scientist"
     }
 ]
