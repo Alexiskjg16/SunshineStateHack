@@ -1,8 +1,26 @@
+.background {
+    background-image: url('/assets/images/water.jpeg');
+    background-repeat: no-repeat;
+    position: fixed;
+    width: 300%;
+    top: 0;
+    left: 0;
+    right: 0;
+    opacity: .4;
+    z-index: -1000;
+}
+
+.logo {
+    height: 100%;
+    width: auto;
+}
+
 nav {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     position: fixed;
+    height: 10%;
     top: 0;
     left: 0;
     right: 0;
@@ -18,6 +36,7 @@ ul .active {
 
 a {
     text-decoration: none;
+    font-size: 16pt;
 }
 
 li {
@@ -26,5 +45,9 @@ li {
 }
 
 body {
-    margin: 15rem 0;
+    margin: 10rem;
+}
+
+footer {
+    text-align: center;
 }

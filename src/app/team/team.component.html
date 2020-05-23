@@ -1,9 +1,11 @@
+
+<h1>The Team</h1>
 <div>
     <ul *ngFor="let team of teams">
         <li> {{ team.name }} </li>
         <li> {{ team.company }} </li>
         <li> {{ team.position }} </li>
-        <li> {{ team.website }} </li>
+        <li> <a href={{team.website}}>More</a> </li>
     </ul>
 
 </div>

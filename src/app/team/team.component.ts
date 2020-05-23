@@ -12,6 +12,7 @@ public teams: {
   name: string;
   position: string;
   company: string;
+  website: string;
 }[] = team;
 
   constructor() { }

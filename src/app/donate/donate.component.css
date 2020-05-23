@@ -1,0 +1,14 @@
+h1 {
+    font-size: 28pt;
+    text-align: center;
+}
+h3 {
+    margin-bottom: 10rem;
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
