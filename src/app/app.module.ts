@@ -12,11 +12,11 @@ import { DonateComponent } from './donate/donate.component';
 
 
 const routes: Routes = [
-  { path: '/team-component', component: TeamComponent },
-  { path: '/about-component', component: AboutComponent },
-  { path: '/news-component', component: NewsComponent },
-  { path: '/', component: HomeComponent },
-  { path: '/donate-component', component: DonateComponent },
+  { path: 'team-component', component: TeamComponent },
+  { path: 'about-component', component: AboutComponent },
+  { path: 'news-component', component: NewsComponent },
+  { path: 'home-component', component: HomeComponent },
+  { path: 'donate-component', component: DonateComponent },
 ]
 
 @NgModule({
