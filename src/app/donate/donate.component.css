@@ -21,3 +21,21 @@ div {
     display: flex;
     flex-direction: row;
 }
+
+@media (max-width: 376px) {
+    h3 {
+        width: 1000%;
+        text-align: center;
+        margin-left: -8rem;
+    }
+
+    img {
+        margin-left: 0rem;
+    }
+    div {
+        display: flex;
+        flex-direction: column;
+        margin-top: 10rem;
+        width: 400%;
+    }
+}

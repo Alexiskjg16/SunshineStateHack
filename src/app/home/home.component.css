@@ -22,3 +22,26 @@ body {
 li {
     list-style: none;
 }
+
+@media (max-width: 376px) {
+    body {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin-left: 0rem;
+    }
+    section {
+        width: 1500%;
+        font-size: 12pt;
+        text-align: center;
+        margin-left: -9rem;
+    }
+    .about {
+        margin-left: -10rem;
+    }
+    header {
+        width: 1000%;
+        text-align: center;
+        margin-left: -6rem;
+    }
+}

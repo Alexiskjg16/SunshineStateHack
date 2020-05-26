@@ -10,3 +10,10 @@ section {
 a {
     text-decoration: none;
 }
+
+@media (max-width: 376px) {
+    section {
+        margin-left: -10rem;
+        width: 1000%;
+    }
+}

@@ -2,7 +2,6 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-
 }
 
 div {
@@ -11,10 +10,30 @@ div {
     margin: 3rem;
 }
 
-
-
 h1 {
     text-align: center;
     font-size: 28pt;
 }
 
+@media (max-width: 376px) {
+    body {
+        display: flex;
+        flex-direction: column;
+        width: 500%;
+    }
+    img {
+      display: none;
+    }
+    div {
+        margin: none;
+        width: 300%;
+        margin-left: -6rem;
+    }
+    p {
+        font-size: 20pt;
+    }
+    h1 {
+        text-align: center;
+        width: 600%;
+    }
+}
